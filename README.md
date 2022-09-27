@@ -1,6 +1,6 @@
-- 👋 shakil mohammadi
-- 👀 I’m interested in React
-- 🌱 I’m currently learning Xd
+- 👋 shakila mohammadi
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me shakilamohammadi2019@gmail.com
 
